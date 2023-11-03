@@ -25,7 +25,7 @@ const Work = () => {
     <div className="work-section-wrapper">
       <div className="work-section-top">
         <p className="primary-subheading">Work</p>
-        <h1 className="primary-heading">How It Works</h1>
+        <h1 className="primary-heading">How This Site Works</h1>
         <p className="primary-text">
           This Website makes easy to order Diet Food from Online Food Websites.
           It provides to order good food and be healthy.

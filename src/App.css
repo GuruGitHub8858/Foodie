@@ -23,7 +23,7 @@ body {
 }
 
 body {
-  background-color: #f6f6f6;
+  background-color: #484848;
 }
 
 nav {
@@ -99,10 +99,23 @@ nav {
 
 .primary-heading {
   font-size: clamp(2rem, 5vw, 4rem);
-  color: #4c4c4c;
-  /* line-height: 5rem; */
+  color: white;
   max-width: 600px;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typeAnimation 3s steps(15) infinite;
 }
+
+@keyframes typeAnimation {
+  0% {
+    width: 0;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
 
 .primary-text {
   font-size: clamp(1rem, 3vw, 1.5rem);
@@ -264,7 +277,7 @@ nav {
 .footer-section-columns span {
   margin: 0.25rem 0rem;
   font-weight: 600;
-  color: #4c4c4c;
+  color: white;
   cursor: pointer;
 }
 

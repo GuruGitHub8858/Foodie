@@ -12,9 +12,9 @@ const Home = () => {
         <img src={AboutBackgroundImage} alt="" />
       </div>
       <div className="about-section-text-container">
-        <p className="primary-subheading">About</p>
+        <p className="primary-subheading">Home</p>
         <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+          Food
         </h1>
         <p className="primary-text">
           Food is essential for our body for a number of reasons.
