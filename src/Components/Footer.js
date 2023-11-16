@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <div className="footer-section-columns">
           <span>6379390543</span>
-          <span>hello@food.com</span>
+          <span>dr.guru750@gmail.com</span>
           <span>press@food.com</span>
           <span>contact@food.com</span>
         </div>
