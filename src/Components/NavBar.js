@@ -52,7 +52,7 @@ const Navbar = () => {
         <img src={Logo} alt="" />
       </div>
       <div className="navbar-links-container">
-        <Link to="/">Homessss</Link> {/* Use Link for routing */}
+        <Link to="/">Home</Link> {/* Use Link for routing */}
         <Link to="/work">Work</Link> {/* Use Link for routing */}
 
         <Link to="/testimonials">Testimonials</Link>
