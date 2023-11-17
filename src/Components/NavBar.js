@@ -52,7 +52,7 @@ const Navbar = () => {
         <img src={Logo} alt="" />
       </div>
       <div className="navbar-links-container">
-        <Link to="/">Home</Link> {/* Use Link for routing */}
+        <Link to="/">Homessss</Link> {/* Use Link for routing */}
         <Link to="/work">Work</Link> {/* Use Link for routing */}
 
         <Link to="/testimonials">Testimonials</Link>
@@ -60,6 +60,7 @@ const Navbar = () => {
         <Link to="/cart">
           <ShoppingCartRoundedIcon className="navbar-cart-icon" />
         </Link>
+
         <button className="primary-button">Book Now</button>
       </div>
       <div className="navbar-menu-container">
