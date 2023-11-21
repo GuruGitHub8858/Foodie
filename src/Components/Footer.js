@@ -4,7 +4,7 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 import FacebookIcon from "@mui/icons-material/Facebook";
-
+import InstagramIcon from '@mui/icons-material/Instagram';
 const Footer = () => {
   return (
     <div className="footer-wrapper">
@@ -24,6 +24,9 @@ const Footer = () => {
           </a>
           <a href="https://www.facebook.com/your-facebook-page">
             <FacebookIcon />
+          </a>
+          <a href="https://www.instagram.com/_guru_manoj/">
+            <InstagramIcon />
           </a>
         </div>
       </div>
