@@ -15,7 +15,7 @@ function App() {
           <Navbar />
         </div>
         <Routes>
-          {/* Switch */}
+
           <Route path="/" element={<Home />} />
           <Route path="/work" element={<Work />} />
           <Route path="/testimonials" element={<Testimonial />} />

@@ -14,7 +14,7 @@ const Home = () => {
       <div className="about-section-text-container">
         <p className="primary-subheading">Home</p>
         <h1 className="primary-heading">
-          Food
+          Pramiha & Varsini & Ishu
         </h1>
         <p className="primary-text">
           Food is essential for our body for a number of reasons.

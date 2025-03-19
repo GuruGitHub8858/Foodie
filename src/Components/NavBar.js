@@ -22,27 +22,27 @@ const Navbar = () => {
     {
       text: "Home",
       icon: <HomeIcon />,
-      to: "/home", // Specify the route path
+      to: "/",
     },
     {
-      text: "About",
+      text: "Work",
       icon: <InfoIcon />,
-      to: "/about", // Specify the route path
+      to: "/Work",
     },
     {
       text: "Testimonials",
       icon: <CommentRoundedIcon />,
-      to: "/testimonials", // Specify the route path
+      to: "/testimonials",
     },
     {
       text: "Contact",
       icon: <PhoneRoundedIcon />,
-      to: "/contact", // Specify the route path
+      to: "/contact",
     },
     {
       text: "Cart",
       icon: <ShoppingCartRoundedIcon />,
-      to: "/cart", // Specify the route path
+      to: "/cart",
     },
   ];
 
